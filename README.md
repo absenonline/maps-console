@@ -10,6 +10,6 @@ on the next step you must create credential for android back end
 
 [<img alt="Back End Maps API Android Studio" width="60%" src="https://raw.githubusercontent.com/absenonline/maps-console/main/newbackendmapapi.gif" />](https://raw.githubusercontent.com/absenonline/maps-console/main/newbackendmapapi.gif)
 
-and than you get key, replace on your google maps api xml
+and you have key, replace on your google maps api xml
 
 [<img alt="Back End Maps API Android Studio" width="60%" src="https://raw.githubusercontent.com/absenonline/maps-console/main/copycredentialmapapi.gif" />](https://raw.githubusercontent.com/absenonline/maps-console/main/copycredentialmapapi.gif)
